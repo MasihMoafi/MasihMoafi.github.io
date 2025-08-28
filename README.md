@@ -13,7 +13,7 @@ Specializing in Multi-Agent Systems, AI Security, and Advanced Language Models.
 An overarching analysis of linguistic, semantic, and architectural vulnerabilities in GPT-OSS-20B. This research identifies five distinct, high-severity vulnerabilities discovered through red-teaming engagement.
 
 - **GitHub:** [eyes-wide-shut](https://github.com/MasihMoafi/eyes-wide-shut)
-- **Blog Post:** [Read More](https://my-freelance-website-pi.vercel.app/blog/eyes-wide-shut)
+- **Blog Post:** [Read More](https://masihmoafi.vercel.app/blog/eyes-wide-shut)
 
 ### 🏰 A-Modular-Kingdom
 **The Foundation for AI-Powered Multi-Agent Systems**
@@ -21,7 +21,7 @@ An overarching analysis of linguistic, semantic, and architectural vulnerabiliti
 A comprehensive AI infrastructure providing building blocks for sophisticated multi-agent workflows. Built with modularity and standardization at its core.
 
 - **GitHub:** [A-Modular-Kingdom](https://github.com/MasihMoafi/A-Modular-Kingdom)
-- **Blog Post:** [Read More](https://my-freelance-website-pi.vercel.app/blog/a-modular-kingdom)
+- **Blog Post:** [Read More](https://masihmoafi.vercel.app/blog/a-modular-kingdom)
 
 ### 🎤 TTS-STT Voice Assistant
 **Local AI Voice Assistant with Whisper & Kokoro**
@@ -34,6 +34,6 @@ A personal, local, and fast voice assistant built with advanced speech recogniti
 
 ## Links
 
-- 🌐 **Full Portfolio:** [my-freelance-website-pi.vercel.app](https://my-freelance-website-pi.vercel.app)
+- 🌐 **Full Portfolio:** [my-freelance-website](https://masihmoafi.vercel.app)
 - 💻 **GitHub:** [github.com/MasihMoafi](https://github.com/MasihMoafi)
-- 📝 **Blog:** [Technical Posts](https://my-freelance-website-pi.vercel.app/blog/)
+- 📝 **Blog:** [Technical Posts](https://masihmoafi.vercel.app/blog/)
