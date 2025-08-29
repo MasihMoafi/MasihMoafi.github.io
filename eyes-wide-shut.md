@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Eyes Wide Shut"
+---
+
 ## **Project Write-Up: Eyes Wide Shut**
 
 <img width="14999" height="8502" alt="eyes wide" src="https://github.com/user-attachments/assets/d8c81e1d-f978-4065-8b26-e483602e26ef" />
