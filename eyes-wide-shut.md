@@ -229,7 +229,13 @@ In this case, the CoT remains faithful to protecting proprietary training data 1
 
 <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14567214%2F5ddcc33d484de224b949531ce014c98b%2Fpersona-effect.png?generation=1756124628942556&alt=media" width="70%">
 
+<<<<<<< HEAD
 - **Differential Analysis:** The consummate liar (2) and Grace (5) findings are closely in line with a section from the anthropic blog.
+=======
+- **Differential Analysis:** The consummate liar (2) and Grace (5) findings are closely in line with the following section from the anthropic blog:
+
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F14567214%2F19cf6ca32a26a5e2236472a4bb802e77%2F5th.png?generation=1756231544596829&alt=media" width="70%">
+>>>>>>> 25d4fcb71ce64a47b6f5dc8d6a595905fa784634
 
 ### **5.0 Conclusion: The Uncharted Territory of Alignment**
 
